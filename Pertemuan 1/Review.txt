@@ -1,0 +1,26 @@
+Week 1 : Mobile & Web Service
+
+Bahasa Pemrograman pada Platform:
+# WEB
+  - PHP
+  - Java/JSP
+  - ASP
+  - NodeJS
+  - Python
+  - Dll
+# Mobile
+  - Android
+    ex: JAVA/J2ME, Kotlin
+  - iOS
+    ex: Swift, Objective-C
+  - Android & iOS
+    ex: Flutter, ReactNative, Dll
+
+Desktop
+  - C#
+  - Delphi
+  - Java
+
+Embedded System (Smart Watch, TV Remote, dll)
+  - C
+  - 
